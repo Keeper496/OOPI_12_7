@@ -1,13 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//********************************************************************************
+//  Group Assignment       Authors: Kara Keck, Kara Uitenbroek , Pamela Kuepper
+//  Date: 8/2/2018
+// Class: CPS 315 Object-Oriented Programming I 
+//  Chapter 12 pp 12.7
+//********************************************************************************
 package group_project_12_7;
 
-import java.util.Random;
 import java.util.Scanner;
-
 
 public class Group_Project_12_7
 {
